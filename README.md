@@ -1,4 +1,4 @@
-# Plunet-ApplicationManager---Abby-OCR-Script
+# Plunet-ApplicationManager---Abbyy-OCR-Script
 Application written to OCR PDF and TIF documents to be used by Plunet BusinessManager module ApplicationManager
 
 ## Short Introduction
@@ -16,7 +16,7 @@ Definition: Having an option to create a job that converts an image-based docume
   - Profile type
   - Output file type
   - Allowed image formats
-  - Language Mapping for Source Language in  Plunet and recognized language in Abby Cloud OCR
+  - Language Mapping for Source Language in  Plunet and recognized language in Abbyy Cloud OCR
 - Workflow
   - Starting the application
     - application shall be able to receive source language parameter with ApplicationManager call
@@ -41,7 +41,7 @@ Definition: Having an option to create a job that converts an image-based docume
 - Currently not implemented:
   - CHECK FILE functionality should be possible since log file is created in Job folder - no option to test yet
 
-## Abby Cloud OCR API
+## Abbyy Cloud OCR API
 
 API Documentation: [https://support.abbyy.com/hc/en-us/sections/360004931659-API-v2-JSON-version-](https://support.abbyy.com/hc/en-us/sections/360004931659-API-v2-JSON-version-)
 
