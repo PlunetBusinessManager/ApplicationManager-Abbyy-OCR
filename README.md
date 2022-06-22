@@ -41,7 +41,7 @@ Definition: Having an option to create a job that converts an image-based docume
 - Currently not implemented:
   - CHECK FILE functionality should be possible since log file is created in Job folder - no option to test yet
 
-  1. Abby Cloud OCR API
+## Abby Cloud OCR API
 
 API Documentation: [https://support.abbyy.com/hc/en-us/sections/360004931659-API-v2-JSON-version-](https://support.abbyy.com/hc/en-us/sections/360004931659-API-v2-JSON-version-)
 
