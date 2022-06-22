@@ -62,7 +62,7 @@ ocr_config.xml (ApplicationID and Password must be set - can be retrieved from A
 Executable and configuration file shall be stored on server where Plunet runs.
 
 #### Further details to be found in PDF
-
+https://github.com/SufiSR/Plunet-ApplicationManager---Abby-OCR-Script/blob/main/Abby%20Cloud%20OCR%20Script%20with%20ApplicationManager_official.pdf
 
 ## Testing the integration
 
