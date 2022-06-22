@@ -1,7 +1,7 @@
 <Configuration>
     <Server>https://cloud.ocrsdk.com</Server>
-    <ApplicationID>61939c54-acf9-4518-ac2d-f3964550d9c1</ApplicationID>
-    <Password>2CT3Ot5C7UKbstqHH8EO1BVp</Password>
+    <ApplicationID>ENTER YOUR APPLICATION ID HERE</ApplicationID>
+    <Password>ENTER YOUR PASSWORD HERE</Password>
     <OCR_Profile>documentConversion</OCR_Profile>
     <OCR_Output>docx</OCR_Output>
     <Allowed_Formats>
