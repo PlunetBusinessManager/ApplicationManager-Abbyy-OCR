@@ -1,0 +1,39 @@
+<Configuration>
+    <Server>https://cloud.ocrsdk.com</Server>
+    <ApplicationID>61939c54-acf9-4518-ac2d-f3964550d9c1</ApplicationID>
+    <Password>2CT3Ot5C7UKbstqHH8EO1BVp</Password>
+    <OCR_Profile>documentConversion</OCR_Profile>
+    <OCR_Output>docx</OCR_Output>
+    <Allowed_Formats>
+        <format>bmp</format>
+        <format>tiff</format>
+        <format>tif</format>
+        <format>pdf</format>
+        <format>jpg</format>
+        <format>jpeg</format>
+        <format>jfif</format>
+    </Allowed_Formats>
+    <Logging_Mode>DEBUG</Logging_Mode>
+    <LanguageMapping>
+        <Language>
+            <Plunet>English (USA)</Plunet>
+            <Abby>English</Abby>
+        </Language>
+        <Language>
+            <Plunet>English (UK)</Plunet>
+            <Abby>English</Abby>
+        </Language>
+        <Language>
+            <Plunet>German (Germany)</Plunet>
+            <Abby>German</Abby>
+        </Language>
+        <Language>
+            <Plunet>French (France)</Plunet>
+            <Abby>French</Abby>
+        </Language>
+        <Language>
+            <Plunet>French (Canada)</Plunet>
+            <Abby>French</Abby>
+        </Language>
+    </LanguageMapping>
+</Configuration>
