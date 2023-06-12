@@ -71,3 +71,6 @@ Create a project and put a pdf or tif file into the language source folder of th
 Due to the configuration, it would make sense to choose English as the source language.
 
 Sample File can be obtained from Abby OCR Documentation page.
+
+## License
+Distributed under the MIT License. See LICENSE for more information.
